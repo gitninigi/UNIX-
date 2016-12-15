@@ -1,3 +1,0 @@
-Can call 'cd' on file.
-Cannot call 'ls' on file.
-Lack of -r rights for dir. 
