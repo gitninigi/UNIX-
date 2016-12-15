@@ -1,7 +1,0 @@
-Can call 'cd' on file.
-Can call 'ls' on file.
-Can call 'ls -s' on file.
-Can call 'cat' on file.
-Can call 'rm' on file.
-Can call 'cat >>' on file.
-All calls correct.
