@@ -1,0 +1,5 @@
+Can call 'cd' on file.
+Can call 'ls' on file.
+Can call 'ls -s' on file.
+Cannot call 'cat' on file.
+Lack of -r rights for file. 
